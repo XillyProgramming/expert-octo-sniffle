@@ -5,5 +5,6 @@ using UnityEngine.UI;
 
 public class HelloMessage : MonoBehaviour
 {
-	public Text hello = "Hello there! This is a new commit!";
+	public string hello = "Hello there! This is a new commit!";
+	public string goodBye = "Good bye!";
 }
